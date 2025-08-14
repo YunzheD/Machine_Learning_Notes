@@ -25,3 +25,4 @@
 通过图形展示，随着 w 的变化，模型 f(x) 的直线形状也会变化。
 每个 w 值对应一个成本 J(w)，可以通过绘制这些点来描绘成本函数的形状。
 <img width="921" height="475" alt="image" src="https://github.com/user-attachments/assets/d6ebe7b8-470b-47e4-8c12-0fc852ae96d5" />
+<img width="828" height="490" alt="image" src="https://github.com/user-attachments/assets/d63215c2-920a-493b-870d-85780c984dc8" />
