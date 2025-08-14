@@ -11,5 +11,5 @@
 企业可以利用无监督学习对客户信息进行聚类，以便更有效地服务不同的市场细分。
 例如，深度学习团队通过聚类分析发现了不同学习者的主要动机，从而更好地满足他们的需求。
 
-
-
+异常检测Anomaly detection-find unusual data points.
+Dimensionality reduction-Compress data using fewer numbers.
