@@ -1,0 +1,15 @@
+线性回归模型概述
+
+线性回归是将一条直线拟合到数据上，是最常用的学习算法之一。
+通过使用波特兰的房屋大小和价格数据集，可以预测房屋的售价。
+
+监督学习通过提供带有正确答案的数据来训练模型，线性回归模型属于回归模型regression model，预测数值输出（如价格）。
+与回归模型相对的是分类模型，后者预测离散类别（如猫或狗）。
+数据集和标准符号
+
+用于训练模型的数据集称为训练集，输入变量用小写字母x表示，输出变量用小写字母y表示。
+每个训练示例用(x, y)表示，训练集中的每一行对应一个房屋的大小和价格。
+x="input" variable feature
+y="output" variable/ "target"variable
+m= number of training examples
+(x,y)=single training example
