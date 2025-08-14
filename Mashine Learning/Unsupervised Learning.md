@@ -11,5 +11,6 @@
 企业可以利用无监督学习对客户信息进行聚类，以便更有效地服务不同的市场细分。
 例如，深度学习团队通过聚类分析发现了不同学习者的主要动机，从而更好地满足他们的需求。
 
+除了聚类，还有其他类型的无监督学习，比如异常检测（用于发现异常事件）和降维（将大数据集压缩成更小的数据集，同时尽量保留信息）。
 异常检测Anomaly detection-find unusual data points.
 Dimensionality reduction-Compress data using fewer numbers.
