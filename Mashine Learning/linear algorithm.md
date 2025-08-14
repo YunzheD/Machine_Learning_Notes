@@ -14,3 +14,16 @@ y="output" variable/ "target"variable
 m= number of training examples
 (x,y)=single training example
 <img width="458" height="139" alt="image" src="https://github.com/user-attachments/assets/bee1f88e-537b-432e-8e72-272c34b56649" />
+监督学习的基本概念
+
+监督学习算法使用包含输入特征（如房屋大小）和输出目标（如房屋价格）的训练集进行训练。
+训练后，算法生成一个函数f，该函数用于根据新的输入x预测输出y-hat（估计值）。
+线性回归模型
+
+线性回归模型的形式为f_w,b(x) = wx + b，其中w和b是决定预测y-hat的参数。
+该模型通过绘制训练集数据，生成最佳拟合直线，帮助进行预测。
+成本函数的重要性
+
+成本函数是机器学习中的一个重要概念，用于评估模型的预测效果。
+<img width="560" height="478" alt="image" src="https://github.com/user-attachments/assets/4980ef85-2691-4aa6-9977-cd988871f0d5" />
+<img width="534" height="463" alt="image" src="https://github.com/user-attachments/assets/2b325a17-369d-44c9-97f3-d472d2e3a85b" />
